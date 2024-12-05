@@ -20,7 +20,7 @@ Welcome to my Power BI project! This dashboard provides a detailed breakdown of 
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Preview](path/to/your/image.png)  
+![Dashboard Preview](https://github.com/SvenFassaert/Power-BI-Project-Data-Professional-Survey-Breakdown/blob/main/Dashboard_Screenshot.png?raw=true)  
 *The interactive dashboard showcases key insights at a glance.*  
 
 ---
